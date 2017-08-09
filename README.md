@@ -4,7 +4,7 @@
 To extend **ZARCO**’s functionalities, you must first connect to it and program it. **ZARCO** comes with an Arduino UNO and an OMNI-3MD controller so, to program it, you can simply download Arduino IDE, connect a USB cable to **ZARCO**’s board, and that’s it. 
 Here is the installation process explained step-by-step:
 * Go to https://www.arduino.cc/en/Main/Software and download the latest release of Arduino IDE
-* Download the Omni3MD Arduino library [here](arduino/library/) and install it as any other Arduino library. The manual of this library is available in the following link: http://botnroll.com/omni3md/downloads/OMNI-3MD_Manual_Software%2817-10-2013%29.pdf 
+* Download the Omni3MD Arduino library [here](arduino/library/) and install it as any other Arduino library. The manual of this library is available in the following link: http://botnroll.com/omni3md/ 
 * Connect to **ZARCO**’s Arduino UNO board using a USB cable
 * Install any regular Arduino drivers if necessary (those are available in the Arduino IDE folder installed on your computer)
 
