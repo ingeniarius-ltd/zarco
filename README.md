@@ -19,3 +19,7 @@ That's it - Enjoy!
 
 # 2.	Quick start
 After following the installation steps, test the [square.ino](arduino/examples/square/square.ino) example located in arduino/examples/ to make sure all libraries are adequately installed. If everything goes as expected, you should see **ZARCO** following a square trajectory.
+
+
+# 3.	GPS Module
+Arduino GPS shield is a GPS module breadout board designed for Global Positioning System receiver with SD interface. It is easy to use for recording the position data into SD card. 5V/3.3V compatible operation voltage level make it compatible with Arduino boards, leaf maple, IFlat32 and other arduino compatible boards. For more info, datasheets and example code check the following [link](https://www.itead.cc/wiki/Arduino_GPS_shield).
